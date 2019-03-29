@@ -8,10 +8,6 @@ import java.util.List;
 
 import io.reactivex.Observable;
 
-/**
- * Created by Zaifeng on 2018/3/1.
- */
-
 public class Model implements Contract.Model {
     @Override
     public Observable<Response<List<Cause>>> getCauseList() {

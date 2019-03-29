@@ -1,9 +1,5 @@
 package com.example.demo.rxjava_retrofit.bean;
 
-import android.os.Parcel;
-import android.os.Parcelable;
-
-
 public class Cause {
 
     private Long id;

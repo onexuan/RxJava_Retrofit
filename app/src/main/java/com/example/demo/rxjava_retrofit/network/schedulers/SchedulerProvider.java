@@ -9,7 +9,6 @@ import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * Created by Zaifeng on 2018/2/28.
  * 线程切换
  */
 public class SchedulerProvider implements BaseSchedulerProvider {

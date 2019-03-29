@@ -1,10 +1,5 @@
 package com.example.demo.rxjava_retrofit.network.response;
 
-/**
- * Created by Zaifeng on 2018/2/28.
- * 返回结果封装
- */
-
 public class Response<T> {
 
     private int ret; // 返回的code

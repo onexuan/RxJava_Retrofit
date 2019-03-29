@@ -6,10 +6,6 @@ import com.example.demo.rxjava_retrofit.network.schedulers.BaseSchedulerProvider
 import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.disposables.Disposable;
 
-/**
- * Created by Zaifeng on 2018/3/1.
- */
-
 public class Presenter {
 
     private Model model;

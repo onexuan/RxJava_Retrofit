@@ -12,10 +12,6 @@ import com.example.demo.rxjava_retrofit.network.schedulers.SchedulerProvider;
 
 import java.util.List;
 
-/**
- * Created by Zaifeng on 2018/3/1.
- */
-
 public class ViewActivity extends AppCompatActivity implements Contract.View {
 
     private static final String TAG = "ViewActivity";

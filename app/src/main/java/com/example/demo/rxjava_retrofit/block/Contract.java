@@ -7,11 +7,6 @@ import java.util.List;
 
 import io.reactivex.Observable;
 
-
-/**
- * Created by Zaifeng on 2018/3/1.
- */
-
 public class Contract {
 
     public interface View {

@@ -9,7 +9,6 @@ import io.reactivex.ObservableTransformer;
 import io.reactivex.functions.Function;
 
 /**
- * Created by Zaifeng on 2018/2/28.
  * 对返回的数据进行处理，区分异常的情况。
  */
 
